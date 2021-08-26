@@ -1,0 +1,32 @@
+[10-Aug-2019 23:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[30-Aug-2019 14:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[03-Oct-2019 09:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[04-Oct-2019 01:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[05-Oct-2019 16:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[07-Oct-2019 09:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[10-Nov-2019 19:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/index.php on line 1
+[23-May-2021 01:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/mexicochess/public_html/wp-content/themes/mexicochess/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mexicochess/public_html/wp-content/themes/mexicochess/404.php on line 3

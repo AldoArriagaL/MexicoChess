@@ -1,0 +1,11 @@
+.uagb-section__background-image, .uagb-columns__background-image{color: #ffffff;}
+.uagb-section__wrap .wp-block-shortcode{color: #000000}
+
+.wp-block-lazyblock-aablocksection{
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #ffffff;
+	overflow: hidden;
+}
+.wp-block-lazyblock-aablocksection .wp-block-shortcode{color: #000000;}
+.wp-block-lazyblock-blocksection .wp-block-image figcaption{color: #ffffff;}
+.aa-hide{opacity: 0.4;}
